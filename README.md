@@ -1,11 +1,11 @@
-Alinear = "centro" "Hola, soy Sebastian"/h1
-Apasionado desarrollador de frontend de Colombia.
+<h1 align="center">Hi 👋, I'm Sebastian</h1>
+<h3 align="center">A passionate frontend developer from Colombia.</h3>
 
-- Actualmente aprenden **Para programar en C y crear una aplicación para el manejo del ganado.**
+- 🌱 I’m currently learning **To program in C++ and create an app for cattle management.**
 
-"h3 align="left"Conéctate conmigo: *h3"
-P. alineación="izá-Lénquicalo".
-- *
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Eh3 align="left".Idiomas y herramientas:
-P. alineación="izá-Lénquicalo". A href="https://www.w3.org/html/" target="blank" rel="noreferrer" .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/o - Ah, sí. A href="https://www.linux.org/" target="-blank" rel=noreferrer" .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/o - Ah, sí. A href="https://www.python.org" target="blank" rel="noreferrer" .img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/o - Ah, sí. - *
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
